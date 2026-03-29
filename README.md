@@ -1,4 +1,4 @@
-# Automated Data Pipeline for E-commerce Sales Reporting
+# Airflow & AWS Data Pipeline for E-commerce Sales Reporting
 
 ## Introduction
 This project demonstrates the design and implementation of an automated data pipeline for analysing e-commerce sales data.  
