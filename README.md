@@ -22,12 +22,11 @@ The objective of this project is to automate the generation of weekly sales repo
 - Modular pipeline design with separated ETL components  
 
 ## Material
-
 - `scripts/`: ETL processing scripts  
 - `amazon_sales_reporting_etl_AWS.py`: Airflow DAG definition  
 - `Automated_Data_Pipeline_Airflow_AWS.pdf`: Full project report  
 - `Example_Weekly_Performance_Report.pdf`: Example output report  
-- `README.md`: Project documentation  
+- `requirements.txt`: List of Python dependencies for reproducibility
 
 ## How to Run
 
