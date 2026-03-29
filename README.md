@@ -25,16 +25,9 @@ The objective of this project is to automate the generation of weekly sales repo
 - `Example_Weekly_Performance_Report.pdf`: Example output report  
 - `requirements.txt`: List of Python dependencies for reproducibility
 
-## How to Run
-
-### 1. Start Airflow
-docker compose up
-
-### 2. Access Airflow UI
-http://localhost:8080
-
-### 3. Trigger DAG
-airflow dags trigger amazon_sales_report_etl_AWS
+## Documentation
+For a detailed explanation of the system design, data processing workflow, and analysis, please refer to the full project report:
+- `Automated_Data_Pipeline_Airflow_AWS.pdf`
 
 ## Example Output
 The pipeline generates a weekly report including:
