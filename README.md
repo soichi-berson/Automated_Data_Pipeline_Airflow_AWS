@@ -18,16 +18,16 @@ The objective of this project is to automate the generation of weekly sales repo
 - AWS S3 integration for data ingestion and storage, with secure access management using IAM  
 - Modular pipeline design with separated ETL components  
 
+## Documentation
+For a detailed explanation of the system design, data processing workflow, and analysis, please refer to the full project report:
+- `Automated_Data_Pipeline_Airflow_AWS.pdf`
+
 ## Material
 - `scripts/`: ETL processing scripts  
 - `amazon_sales_reporting_etl_AWS.py`: Airflow DAG definition  
 - `Automated_Data_Pipeline_Airflow_AWS.pdf`: Full project report  
 - `Example_Weekly_Performance_Report.pdf`: Example output report  
 - `requirements.txt`: List of Python dependencies for reproducibility
-
-## Documentation
-For a detailed explanation of the system design, data processing workflow, and analysis, please refer to the full project report:
-- `Automated_Data_Pipeline_Airflow_AWS.pdf`
 
 ## Example Output
 The pipeline generates a weekly report including:
