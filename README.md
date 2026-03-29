@@ -5,10 +5,7 @@ This project demonstrates the design and implementation of an automated data pip
 It is developed using Python and showcases the use of Apache Airflow and AWS S3 for workflow orchestration and cloud-based storage.
 
 ## Data Source
-Kaggle (available from Kaggle)
-
-E-commerce Sales Dataset:  
-https://www.kaggle.com/datasets/sharmajicoder/e-commerce-sales-dataset
+Dataset: [E-commerce Sales Dataset (Kaggle)](https://www.kaggle.com/datasets/sharmajicoder/e-commerce-sales-dataset)
 
 ## Objective
 The objective of this project is to automate the generation of weekly sales reports by replacing manual data processing with a structured ETL pipeline.
