@@ -18,8 +18,8 @@ The objective of this project is to automate the generation of weekly sales repo
 - Weekly KPI reporting (Revenue, Orders, AOV, WoW growth)  
 - Data visualisation using Matplotlib  
 - PDF report generation  
-- AWS S3 integration for storage  
-- Modular pipeline design  
+- AWS S3 integration for data ingestion and storage, with secure access management using IAM  
+- Modular pipeline design with separated ETL components  
 
 ## Material
 
