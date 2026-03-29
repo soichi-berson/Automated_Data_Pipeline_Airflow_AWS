@@ -1,0 +1,6 @@
+pandas
+matplotlib
+reportlab
+boto3
+apache-airflow
+apache-airflow-providers-amazon
