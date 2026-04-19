@@ -1,5 +1,5 @@
 # Airflow & AWS Data Pipeline for E-commerce Sales Reporting
-
+- End-to-end automated sales reporting pipeline built with Apache Airflow, AWS S3, and Python - 
 ## Introduction
 This project demonstrates the design and implementation of an automated data pipeline for analysing e-commerce sales data.  
 It is developed using Python and showcases the use of Apache Airflow and AWS S3 for workflow orchestration and cloud-based storage.
